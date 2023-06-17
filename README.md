@@ -1,1 +1,3 @@
-# FlyHigh
+-Import the user_db database onto the phpmyadmin
+-copy the contents to xampp/htdocs
+-open https://localhost/FlyHigh directory in browser
